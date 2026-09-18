@@ -1,5 +1,3 @@
-# utilities
-
 # Tools 2 All — Free Online Utilities
 
 A directory of every free, browser-based tool on **[2all.in](https://2all.in)** (78 tools across 8 categories) — no signup, no upload, everything runs locally in your browser. Click any tool name to open it.
